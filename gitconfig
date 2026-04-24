@@ -1,0 +1,14 @@
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+  interactive = auto
+  ui = true
+  pager = true
+[user]
+  email = git@git.local
+  name = git
+[core]
+  editor = /usr/bin/vim
+[init]
+  defaultBranch = main
