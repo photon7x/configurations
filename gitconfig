@@ -10,5 +10,6 @@
   name = git
 [core]
   editor = /usr/bin/vim
+  quotepath = false
 [init]
   defaultBranch = main
